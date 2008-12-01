@@ -543,7 +543,7 @@ fortune: Segmentation fault -- core dumped
 %
 A LISP programmer knows the value of everything, but the cost of nothing.
 %
-A bore is a man you deprives you of solitude without providing you with 
+A bore is a man you deprives you of solitude without providing you with
 company.
 	-- Gian Vincenzo Gravina
 %
@@ -1273,6 +1273,9 @@ tolerable subhuman who has learned to wear shoes, bathe and not make messes
 in the house.
 	-- Lazarus Long, "Time Enough for Love"
 %
+Anyone who has never made a mistake has never tried anything new.
+	-- Albert Einstein
+%
 Anyone who is capable of getting themselves made President should on no
 account be allowed to do the job.
 	-- Douglas Adams, "The Hitchhiker's Guide to the Galaxy"
@@ -1323,7 +1326,7 @@ Arnold's Laws of Documentation:
     (2) If it does exist, it's out of date.
     (3) Only documentation for useless programs transcends the first two laws.
 %
-Art is parasitic on life, just as criticism is parasitic on art. 
+Art is parasitic on life, just as criticism is parasitic on art.
 	-- Harry S Truman (one of his more ridiculous comments)
 %
 As Will Rogers would have said, "There is no such things as a free variable."
@@ -1703,7 +1706,7 @@ system, in which all of its major weaknesses have been exposed,
 analyzed, and replaced with new weaknesses.
 	-- Bruce Leverett, "Register Allocation in Optimizing Compilers"
 %
-By and large, language is a tool for concealing the truth. 
+By and large, language is a tool for concealing the truth.
 	-- George Carlin
 %
 By doing just a little every day, I can gradually let the task completely
@@ -2171,7 +2174,7 @@ Don't eat yellow snow.
 %
 Dobbin's Law: When in doubt, use a bigger hammer.
 %
-Don't get suckered in by the comments -- they can be terribly misleading.  
+Don't get suckered in by the comments -- they can be terribly misleading.
 Debug only code.
 	-- Dave Storer
 %
@@ -2730,7 +2733,7 @@ That no life lives forever/That dead men rise up never,
 That even the weariest river winds somewhere safe to sea.
 	-- Swinburne
 %
-Froud's Law: A transistor protected by a fast acting fuse will protect the 
+Froud's Law: A transistor protected by a fast acting fuse will protect the
 fuse by blowing first.
 %
 Fudd's First Law of Opposition: Push something hard enough and it will
@@ -2828,6 +2831,10 @@ Go west young, man.
 %
 God did not create the world in 7 days; he screwed around for 6 days
 and then pulled an all-nighter.
+%
+God does not care about our mathematical difficulties. He integrates
+empirically.
+	-- Albert Einstein
 %
 God does not play dice with the universe.
 %
@@ -2934,7 +2941,7 @@ Grandpa Charnock's Law:
 %
 Granholm's Definition of the Kludge: An ill-assorted collection of poorly
 matching parts forming a distressing whole.
-	-- Jackson W. Granholm, "How to Design a Kludge," 
+	-- Jackson W. Granholm, "How to Design a Kludge,"
 	   Datamation, Feb. 1962
 %
 Gray's Law of Programming:
@@ -2947,6 +2954,11 @@ Logg's Rebuttal to Gray's Law:
 Great people talk about ideas, average people talk about things, and small
 people talk about wine.
 	-- Fran Lebowitz
+%
+Great spirits have always found violent opposition from mediocrities. The
+latter cannot understand it when a man does not thoughtlessly submit to
+hereditary prejudices but honestly and courageously uses his intelligence.
+	-- Albert Einstein
 %
 Greatness is a transitory experience.  It is never consistent.
 %
@@ -3254,7 +3266,7 @@ bodies, it is customary to mention all members as honorable; as, "the honorable
 gentleman is a scurvy cur."
 	-- Ambrose Bierce, "The Devil's Dictionary"
 %
-Horngren's Observation: Among economists, the real world is often a special 
+Horngren's Observation: Among economists, the real world is often a special
 case.
 %
 Horse sense is the thing a horse has which keeps it from betting on people.
@@ -3282,7 +3294,7 @@ Q. How many NASA managers does it take to screw in a lightbulb?
 A. "That's a known problem... don't worry about it."
 %
 Q. How many QA engineers does it take to screw in a lightbulb?
-A. Three: one to screw it in and two to say "I told you so" when it doesn't 
+A. Three: one to screw it in and two to say "I told you so" when it doesn't
    work.
 %
 Q. How many WASPs does it take to change a light bulb?
@@ -3301,7 +3313,7 @@ Q. How many Vietnam vets does it take to screw in a light bulb?
 A. You don't know, man.  You don't KNOW. Cause you weren't THERE.
 	-- http://bash.org/?255991
 %
-Q. How was Thomas J. Watson buried? 
+Q. How was Thomas J. Watson buried?
 A. 9 edge down.
 %
 Howe's Law: Everyone has a scheme that will not work.
@@ -3344,7 +3356,7 @@ homes; but it is also necessary to protect the young and innocent.
 %
 I would not dare to so dishonor my Creator God by attaching His name to
 that book [the Bible].
-	-- Thomas Paine, The Age of Reason, Part 1, Section 5 
+	-- Thomas Paine, The Age of Reason, Part 1, Section 5
 %
 I'm also not very analytical. You know, I don't spend a lot of time thinking
 about myself, about why I do things.
@@ -5085,7 +5097,7 @@ Martin's Law of Communication: The inevitable result of improved and
 enlarged communication between different levels in a hierarchy is a vastly
 increased area of misunderstanding.
 %
-Matter cannot be created or destroyed, nor can it be returned without a 
+Matter cannot be created or destroyed, nor can it be returned without a
 receipt.
 %
 Maturity is only a short break in adolescence.
@@ -5248,7 +5260,7 @@ population is growing.
 Mr. Ranger isn't gonna like it, Yogi.
 %
 Mrs Podgorny: Angus how are y'going to get 48,000,000 kilts into the van?
-Angus: I'll have t'do it in two goes. 
+Angus: I'll have t'do it in two goes.
 %
 Muddy water let stand will clear.
 	-- Chinese Proverb
@@ -5259,7 +5271,7 @@ work.
 Murphy's Law of Research: Enough research will tend to support your theory.
 %
 My answer is, bring them on.
-        -- George W. Bush, on Iraqi militants attacking U.S. forces; 
+        -- George W. Bush, on Iraqi militants attacking U.S. forces;
            Washington, D.C.; July 3, 2003
 %
 My brother sent me a postcard the other day with this big satellite photo of
@@ -5884,12 +5896,12 @@ made for the PDP-11 by Bell Laboratories.
 Proclaim liberty throughout the land and to all the inhabitants thereof.
 	-- Leviticus 25:10
 %
-Programming is an art form that fights back. 
+Programming is an art form that fights back.
 %
 Programming is 10% science, 25% ingenuity and 65% getting the ingenuity to
-work with the science. 
+work with the science.
 %
-Programming is like sex: one mistake and you're providing support for a 
+Programming is like sex: one mistake and you're providing support for a
 lifetime.
 	-- Michael Sinz
 %
@@ -6190,7 +6202,7 @@ Scott's Second Law: When an error has been detected and corrected, it will
 Corollary: After the correction has been found in error, it will be
 	impossible to fit the original quantity back into the equation.
 %
-See, in my line of work you got to keep repeating things over and over 
+See, in my line of work you got to keep repeating things over and over
 and over again for the truth to sink in, to kind of catapult the propaganda.
 	-- George W. Bush; Greece, New York; May 24, 2005
 %
@@ -6820,6 +6832,9 @@ The hand that rocks the cradle can also cradle a rock.
 The hardest thing to open is a closed mind.
 	-- Leo Burnett
 %
+The hardest thing in the world to understand is the income tax.
+	-- Albert Einstein
+%
 The heart has no rainbows when the eye has no tears.
 %
 The hell with the Prime Directive: let's kill something.
@@ -6856,7 +6871,9 @@ it in the first place.
 The ideal is impossible. The idea of the ideal is essential.
 	-- P. Taylor
 %
-The important thing is not to stop questioning.
+The important thing is not to stop questioning. Curiosity has its own reason
+for existing.
+	-- Albert Einstein
 %
 The inability to benefit from feedback appears to be the primary cause of
 pseudoscience.  Pseudoscientists retain their beliefs and ignore or distort
@@ -7027,6 +7044,9 @@ The only things worth learning are the things you learn after you know it all.
 The only thing to do with good advice is pass it on.  It is never any
 use to oneself.
 	-- Oscar Wilde
+%
+The only real valuable thing is intuition.
+	-- Albert Einstein
 %
 The only way to amuse some people is to slip and fall on an icy pavement.
 %
@@ -7435,7 +7455,7 @@ elderly population with perky boobs and huge erections and absolutely no
 recollection of what to do with them.
 	-- Dave Barry
 %
-There is no "Complete Idiots Guide to Creationism," but perhaps one is not 
+There is no "Complete Idiots Guide to Creationism," but perhaps one is not
 needed.
 	-- Andrei Codrescu, on NPR Aug. 25, 1999
 %
@@ -7466,7 +7486,7 @@ There is danger in delaying, good fortune in acting.
 There is no choice before us. Either we must Succeed in providing the
 rational coordination of impulses and guts, or for centuries civilization
 will sink into a mere welter of minor excitements.  We must provide a Great
-Age or see the collapse of the upward striving of the human race
+Age or see the collapse of the upward striving of the human race.
 	-- Alfred North Whitehead
 %
 There is no distinctly native American criminal class except Congress.
@@ -8014,6 +8034,10 @@ around hollering.
 We can't schedule an orgy, it might be construed as fighting
 	-- Stanley Sutton
 %
+We can't solve problems by using the same kind of thinking we used when we
+created them.
+	-- Albert Einstein
+%
 We cheat the other guy and pass the savings on to you.
 %
 We don't care.  We don't have to.  We're the Phone Company.
@@ -8543,7 +8567,7 @@ Worst Vegetable of the Year:
 	The brussels sprout.  This is also the worst vegetable of next year.
 	-- Steve Rubenstein
 %
-Wozencraft's Law: If you make all of your plans on the assumption that a 
+Wozencraft's Law: If you make all of your plans on the assumption that a
 particular thing won't happen--it will.
 %
 Write-Protect Tab, n.:
@@ -8712,7 +8736,7 @@ You may have heard that a dean is to faculty as a hydrant is to a dog.
 %
 You never know how many friends you have until you rent a house on the beach.
 %
-You never finish a program, you just stop working on it. 
+You never finish a program, you just stop working on it.
 %
 You or I must yield up his life to Ahrimanes.  I would rather it were you.
 I should have no hesitation in sacrificing my own life to spare yours, but
@@ -8793,4 +8817,4 @@ pi seconds is a nanocentury.
 	-- Tom Duff
 %
 A second marriage is the triumph of hope over experience.
-	-- Samuel Johnson 
+	-- Samuel Johnson
