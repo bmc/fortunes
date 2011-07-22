@@ -9122,3 +9122,6 @@ Republicans are completely worthless.
 If mzero doesn't need to be a single, unambiguous value, then the algebra
 of monads would seem to be a bit hinky.
 	-- A tweet from Daniel J. Spiewak
+%
+A monad is just a monoid in the category of endofunctors, what's the problem?
+	-- Saunders Mac Lane, filtered through James Iry
