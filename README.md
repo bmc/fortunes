@@ -20,6 +20,6 @@ so.
 Brian M. Clapper, [bmc@clapper.org][]
 
 [my Python *fortune* program]: http://bmc.github.com/fortune/
-[my Go *fortune* program]: http://bmc.github.com/fortune-go/
+[my Go *fortune* program]: https://github.com/bmc/fortune-go/
 [BSD *fortune* program]: http://en.wikipedia.org/wiki/Fortune_(Unix)
 [bmc@clapper.org]: mailto:bmc@clapper.org
