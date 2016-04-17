@@ -13,7 +13,7 @@ so.
 
 * *fortunes* contains the actual fortunes (i.e., the quotes)
 * *fortunes.dat* is an index file, suitable for use with 
-  [my *fortune* program][].
+  [my Python *fortune* program][].
 
 ---
 
